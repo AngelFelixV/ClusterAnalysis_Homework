@@ -44,9 +44,9 @@ Analizar los patrones de criminalidad en los 50 estados de Estados Unidos utiliz
 | Cluster | Características | Descripción |
 |---------|-----------------|-------------|
 | Oro | Baja criminalidad, baja urbanización | Estados rurales seguros |
-| Azul | Baja criminalidad, alta urbanización | Estados urbanos seguros |
-| Rojo | Alta criminalidad, baja urbanización | Estados rurales con problemas de seguridad |
-| Verde | Alta criminalidad, alta urbanización | Estados urbanos con alto índice delictivo |
+| Verde | Baja criminalidad, alta urbanización | Estados urbanos seguros |
+| Purpura | Alta criminalidad, baja urbanización | Estados rurales con problemas de seguridad |
+| Rojo | Alta criminalidad, alta urbanización | Estados urbanos con alto índice delictivo |
 
 #### Hallazgos
 - La variable **Assault** concentra la mayoría de la varianza en los datos
